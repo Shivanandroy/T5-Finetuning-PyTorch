@@ -369,7 +369,7 @@ df = pd.read_csv(path)
 df["text"] = "summarize: " + df["text"]
 
 T5Trainer(
-    dataframe=df[:500],
+    dataframe=df,
     source_text="text",
     target_text="headlines",
     model_params=model_params,
