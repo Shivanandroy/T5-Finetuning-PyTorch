@@ -1,7 +1,7 @@
 # Fine-tuning T5 model with PyTorch
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1eoQUsisoPmc0e-bpjSKYYd-TE1F5YTqG?usp=sharing)
-[![Go to GitHub Repository](https://img.shields.io/badge/Go%20to%20Blog-Shivanandroy.com-green)](https://github.com/Shivanandroy/T5-Finetuning-PyTorch)
+[![Go to Blog](https://img.shields.io/badge/Go%20to%20Blog-Shivanandroy.com-green)](https://shivanandroy.com/fine-tune-t5-transformer-with-pytorch/)
 
 ```python
 # install libraries
